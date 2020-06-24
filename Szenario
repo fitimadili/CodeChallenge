@@ -1,0 +1,12 @@
+Stelle Dir vor, ein Freund - der Inhaber einer kleinen Buchhandlung - bittet Dich um eine einfache Darstellung seiner neuesten Verkäufe. Er stellt dir eine einfache Json-Exportdatei zur Verfügung.
+
+Was musst Du tun?
+- Entwurf eines Datenbankschemas für eine optimierte Speicherung
+- Lesen der Json-Daten und speichere diese mit PHP in der Datenbank
+- Erstelle eine einfache Seite mit Filtern für Kunde, Produkte und Preis
+- Ausgabe der gefilterten Ergebnisse in einer Tabelle unterhalb der Filter
+- Hinzufügen einer letzten Zeile für den Gesamtpreis aller gefilterten Einträge
+
+Umgebung:
+PHP 7, MySQL / MariaDB, MySQL / MariaDB
+Es steht Dir frei, Open-Source-Bibliotheken und andere Tools zu verwenden.
